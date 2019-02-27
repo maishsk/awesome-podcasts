@@ -1,8 +1,8 @@
-# awesome-podcasts
+# Awesome-podcasts
 Here is a list of podcasts (in no particular order) that I listen to regularly during my daily commute 
 
 ## Grumpy Old Geeks
-Two old farts (like me) that bitch about tech, how ridiculous we have all become - [Link](http://gog.show/)
+Two old farts (like me) that bitch about tech, and how ridiculous we have all become - [Link](http://gog.show/)
 
 ## AWS Podcast
 A weekly show about what is happening in the world of AWS - [Link](https://aws.amazon.com/podcasts/aws-podcast/)

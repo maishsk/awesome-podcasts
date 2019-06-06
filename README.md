@@ -47,4 +47,4 @@ A podcast about emergency medicine - [Link](https://emergencymedicinecases.com/)
 A podcast in Hebrew about the cloud and tech - [Link](https://techtalk.co.il/)
 
 ## The AWS Morning Brief
-The latest in AWS news, sprinkled with snark. From the one and only Corey Quinn [Link](https://www.awsmorningbrief.com/)
+The latest in AWS news, sprinkled with snark. From the one and only Corey Quinn. [Link](https://www.awsmorningbrief.com/)

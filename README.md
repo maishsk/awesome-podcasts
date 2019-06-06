@@ -40,14 +40,11 @@ Security focused Podcast - [Link](https://www.heavybit.com/library/podcasts/the-
 ## The Full Stack Journey
 Interviews with people that have made a change in their technical career - [Link](http://fullstackjourney.com/)
 
-## To Be Continuous
-DevOps focused podcast - [Link](https://www.heavybit.com/library/podcasts/to-be-continuous/)
-
-## The Microsoft Cloud Show
-A Microsoft focused cloud podcast - [Link](http://www.microsoftcloudshow.com/)
-
 ## Emergency Medicine Cases
 A podcast about emergency medicine - [Link](https://emergencymedicinecases.com/)
 
 ## Techtalk
 A podcast in Hebrew about the cloud and tech - [Link](https://techtalk.co.il/)
+
+## The AWS Morning Brief
+The latest in AWS news, sprinkled with snark. From the one and only Corey Quinn [Link](https://www.awsmorningbrief.com/)
